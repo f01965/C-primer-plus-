@@ -1,0 +1,5 @@
+﻿  源.cpp
+e:\c++ primer plus\第六章\6\6\源.cpp(19): warning C4018: “<”: 有符号/无符号不匹配
+e:\c++ primer plus\第六章\6\6\源.cpp(27): warning C4018: “<”: 有符号/无符号不匹配
+e:\c++ primer plus\第六章\6\6\源.cpp(42): warning C4018: “<”: 有符号/无符号不匹配
+  6.vcxproj -> E:\C++ primer plus\第六章\6\Debug\6.exe

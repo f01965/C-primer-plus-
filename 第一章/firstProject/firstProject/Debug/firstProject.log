@@ -1,0 +1,3 @@
+﻿  firstPro.cpp
+e:\c++ primer plus\第一章\firstproject\firstproject\firstpro.cpp(7): warning C4101: “length”: 未引用的局部变量
+  firstProject.vcxproj -> E:\C++ primer plus\第一章\firstProject\Debug\firstProject.exe

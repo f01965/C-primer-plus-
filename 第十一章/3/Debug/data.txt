@@ -1,0 +1,26 @@
+After 28steps, the subject has the following location:
+(x,y) = (49.6534,96.8445)
+or 
+(m,a) = (108.832,62.8552)
+Average outward distance per step = 3.88684
+After 12steps, the subject has the following location:
+(x,y) = (100.752,29.6898)
+or 
+(m,a) = (105.036,16.4193)
+Average outward distance per step = 8.75298
+After 12steps, the subject has the following location:
+(x,y) = (104.345,-5.62553)
+or 
+(m,a) = (104.497,-3.08598)
+Average outward distance per step = 8.70807
+After 40steps, the subject has the following location:
+(x,y) = (33.6873,101.336)
+or 
+(m,a) = (106.789,71.6116)
+Average outward distance per step = 2.66973
+After 26steps, the subject has the following location:
+(x,y) = (-45.5832,92.4828)
+or 
+(m,a) = (103.106,116.238)
+Average outward distance per step = 3.96562
+MAX:40  min:12  average:23
